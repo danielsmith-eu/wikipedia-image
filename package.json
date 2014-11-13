@@ -1,0 +1,22 @@
+{
+  "name": "wikipedia-image",
+  "version": "1.0.0",
+  "description": "Wikipedia URL to image URL lookup",
+  "main": "wikipedia-image.js",
+  "dependencies": {
+    "node-promise": "^0.5.10",
+    "sparql-client": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "wikipedia",
+    "dbpedia",
+    "image",
+    "depiction"
+  ],
+  "author": "Daniel Alexander Smith <daniel@danielsmith.eu> (https://danielsmith.eu/)",
+  "license": "ISC"
+}
