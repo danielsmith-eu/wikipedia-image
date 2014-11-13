@@ -1,6 +1,6 @@
 {
   "name": "wikipedia-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wikipedia URL to image URL lookup",
   "main": "wikipedia-image.js",
   "dependencies": {
@@ -18,5 +18,13 @@
     "depiction"
   ],
   "author": "Daniel Alexander Smith <daniel@danielsmith.eu> (https://danielsmith.eu/)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielsmith-eu/wikipedia-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielsmith-eu/wikipedia-image/issues"
+  },
+  "homepage": "https://github.com/danielsmith-eu/wikipedia-image"
 }
